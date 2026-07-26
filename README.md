@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/N4171k/LEETCODE-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0409-longest-palindrome](https://github.com/N4171k/LEETCODE-Solutions/tree/master/0409-longest-palindrome) |
+| [0443-string-compression](https://github.com/N4171k/LEETCODE-Solutions/tree/master/0443-string-compression) |
 ## Greedy
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/N4171k/LEETCODE-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0443-string-compression](https://github.com/N4171k/LEETCODE-Solutions/tree/master/0443-string-compression) |
 ## Prefix Sum
 |  |
 | ------- |
