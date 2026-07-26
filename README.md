@@ -15,4 +15,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/N4171k/LEETCODE-Solutions/tree/master/0409-longest-palindrome) |
+## Array
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/N4171k/LEETCODE-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+## Math
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/N4171k/LEETCODE-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+## Sorting
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/N4171k/LEETCODE-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
