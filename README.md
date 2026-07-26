@@ -15,11 +15,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/N4171k/LEETCODE-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/N4171k/LEETCODE-Solutions/tree/master/0409-longest-palindrome) |
 ## Array
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/N4171k/LEETCODE-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0334-increasing-triplet-subsequence](https://github.com/N4171k/LEETCODE-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/N4171k/LEETCODE-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Math
 |  |
