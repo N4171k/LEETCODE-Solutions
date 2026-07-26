@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/N4171k/LEETCODE-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0628-maximum-product-of-three-numbers](https://github.com/N4171k/LEETCODE-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Math
 |  |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/N4171k/LEETCODE-Solutions/tree/master/0151-reverse-words-in-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/N4171k/LEETCODE-Solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
