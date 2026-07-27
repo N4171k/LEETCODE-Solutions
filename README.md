@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/N4171k/LEETCODE-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/N4171k/LEETCODE-Solutions/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/N4171k/LEETCODE-Solutions/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/N4171k/LEETCODE-Solutions/tree/master/0443-string-compression) |
 ## Greedy
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/N4171k/LEETCODE-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/N4171k/LEETCODE-Solutions/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/N4171k/LEETCODE-Solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/N4171k/LEETCODE-Solutions/tree/master/0443-string-compression) |
 ## Prefix Sum
 |  |
@@ -49,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/N4171k/LEETCODE-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/N4171k/LEETCODE-Solutions/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
