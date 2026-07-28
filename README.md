@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/N4171k/LEETCODE-Solutions/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/N4171k/LEETCODE-Solutions/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/N4171k/LEETCODE-Solutions/tree/master/0443-string-compression) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/N4171k/LEETCODE-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/N4171k/LEETCODE-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Greedy
 |  |
@@ -73,4 +74,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/N4171k/LEETCODE-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/N4171k/LEETCODE-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
