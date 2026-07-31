@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/N4171k/LEETCODE-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/N4171k/LEETCODE-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/N4171k/LEETCODE-Solutions/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/N4171k/LEETCODE-Solutions/tree/master/0735-asteroid-collision) |
 | [1004-max-consecutive-ones-iii](https://github.com/N4171k/LEETCODE-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/N4171k/LEETCODE-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/N4171k/LEETCODE-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -118,10 +119,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/N4171k/LEETCODE-Solutions/tree/master/0735-asteroid-collision) |
 | [2352-equal-row-and-column-pairs](https://github.com/N4171k/LEETCODE-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/N4171k/LEETCODE-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/N4171k/LEETCODE-Solutions/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/N4171k/LEETCODE-Solutions/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
